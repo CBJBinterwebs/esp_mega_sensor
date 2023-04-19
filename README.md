@@ -1,5 +1,6 @@
 # esp_mega_sensor
 <p>Code for air monitoring sensor with web server.  Basically, it will take data from the three sensors and present some of the information on the OLED screen, as well as presenting that plus additional information in a responsive webpage.  Initially started this project 'for fun' during major forest fires in the Pacific Northwest to monitor the air quality in my child's nursery.</p>
+<p>I have since built several and placed them around the home.  You can use a reverse proxy server to access the device page remotely, or you could easily modify the code to upload the data to a database and pull the data into a seperate application or webpage.</p>
 <br>
 This project requires:
 <ul>
